@@ -78,7 +78,7 @@ DATABASES = {
     'default': {
         'HOST':'127.0.0.1',
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'fikido_face',
+        'NAME': 'policewanted_fikido',
         'USER': 'fidele',
         'PASSWORD': 'fidele',
         'PORT': '5432',
